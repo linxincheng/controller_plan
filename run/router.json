@@ -1,0 +1,195 @@
+[
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/",
+    "regexp": "/^(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "getPageLists",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/CPD/edit/getPageList",
+    "regexp": "/^\\/CPD\\/edit\\/getPageList(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "getServerLists",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/CPD/edit/getServerList",
+    "regexp": "/^\\/CPD\\/edit\\/getServerList(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "batchSaveOrUpdatePageInfos",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/CPD/edit/batchSaveOrUpdatePageInfo",
+    "regexp": "/^\\/CPD\\/edit\\/batchSaveOrUpdatePageInfo(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "importProjectInfos",
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/CPD/edit/importProjectInfo",
+    "regexp": "/^\\/CPD\\/edit\\/importProjectInfo(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "importProjectInfos",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/CPD/edit/importProjectInfo",
+    "regexp": "/^\\/CPD\\/edit\\/importProjectInfo(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "publishes",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/CPD/edit/publish",
+    "regexp": "/^\\/CPD\\/edit\\/publish(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "saveOrUpdateServers",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/CPD/edit/saveOrUpdateServer",
+    "regexp": "/^\\/CPD\\/edit\\/saveOrUpdateServer(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "serverStatuses",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/CPD/edit/serverStatus",
+    "regexp": "/^\\/CPD\\/edit\\/serverStatus(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "delServerByIds",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/CPD/edit/delServerById",
+    "regexp": "/^\\/CPD\\/edit\\/delServerById(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "saveOrUpdatePages",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/CPD/edit/saveOrUpdatePage",
+    "regexp": "/^\\/CPD\\/edit\\/saveOrUpdatePage(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "delPageByIds",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/CPD/edit/delPageById",
+    "regexp": "/^\\/CPD\\/edit\\/delPageById(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "publishGetPageInfos",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/CPD/publish/getPageInfo",
+    "regexp": "/^\\/CPD\\/publish\\/getPageInfo(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "publishGetServerLists",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/CPD/publish/getServerList",
+    "regexp": "/^\\/CPD\\/publish\\/getServerList(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "publishGetSystemAuthInfos",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/CPD/publish/getSystemAuthInfo",
+    "regexp": "/^\\/CPD\\/publish\\/getSystemAuthInfo(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "publishSendCommandWithUpdates",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/CPD/publish/sendCommandWithUpdate",
+    "regexp": "/^\\/CPD\\/publish\\/sendCommandWithUpdate(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  }
+]

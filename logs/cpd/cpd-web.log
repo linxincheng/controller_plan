@@ -1,0 +1,360 @@
+2018-08-24 09:19:34,516 WARN 14544 [-/127.0.0.1/-/3ms POST /CPD/edit/importProjectInfo] nodejs.Error: Invalid filename: nodejs.doc
+    at checkFile (D:\项目\eggcpd\cpd\node_modules\egg-multipart\app.js:72:23)
+    at Busboy.onFile (D:\项目\eggcpd\cpd\node_modules\co-busboy\index.js:101:17)
+    at emitMany (events.js:147:13)
+    at Busboy.emit (events.js:224:7)
+    at Busboy.emit (D:\项目\eggcpd\cpd\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (D:\项目\eggcpd\cpd\node_modules\busboy\lib\types\multipart.js:213:13)
+    at emitOne (events.js:116:13)
+    at PartStream.emit (events.js:211:7)
+    at HeaderParser.<anonymous> (D:\项目\eggcpd\cpd\node_modules\dicer\lib\Dicer.js:51:16)
+    at emitOne (events.js:116:13)
+status: 400
+pid: 14544
+hostname: bohui
+
+2018-08-24 09:20:50,812 WARN 9480 [-/127.0.0.1/-/9ms POST /CPD/edit/importProjectInfo] nodejs.Error: Invalid filename: es6.doc
+    at checkFile (D:\项目\eggcpd\cpd\node_modules\egg-multipart\app.js:72:23)
+    at Busboy.onFile (D:\项目\eggcpd\cpd\node_modules\co-busboy\index.js:101:17)
+    at emitMany (events.js:147:13)
+    at Busboy.emit (events.js:224:7)
+    at Busboy.emit (D:\项目\eggcpd\cpd\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (D:\项目\eggcpd\cpd\node_modules\busboy\lib\types\multipart.js:213:13)
+    at emitOne (events.js:116:13)
+    at PartStream.emit (events.js:211:7)
+    at HeaderParser.<anonymous> (D:\项目\eggcpd\cpd\node_modules\dicer\lib\Dicer.js:51:16)
+    at emitOne (events.js:116:13)
+status: 400
+pid: 9480
+hostname: bohui
+
+2018-08-24 09:25:13,556 WARN 3644 [-/127.0.0.1/-/11ms POST /CPD/edit/importProjectInfo] nodejs.Error: Invalid filename: edit.cpd
+    at checkFile (D:\项目\eggcpd\cpd\node_modules\egg-multipart\app.js:72:23)
+    at Busboy.onFile (D:\项目\eggcpd\cpd\node_modules\co-busboy\index.js:101:17)
+    at emitMany (events.js:147:13)
+    at Busboy.emit (events.js:224:7)
+    at Busboy.emit (D:\项目\eggcpd\cpd\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (D:\项目\eggcpd\cpd\node_modules\busboy\lib\types\multipart.js:213:13)
+    at emitOne (events.js:116:13)
+    at PartStream.emit (events.js:211:7)
+    at HeaderParser.<anonymous> (D:\项目\eggcpd\cpd\node_modules\dicer\lib\Dicer.js:51:16)
+    at emitOne (events.js:116:13)
+status: 400
+pid: 3644
+hostname: bohui
+
+2018-08-24 09:25:29,463 WARN 11364 [-/127.0.0.1/-/8ms POST /CPD/edit/importProjectInfo] nodejs.Error: Invalid filename: edit.cpd
+    at checkFile (D:\项目\eggcpd\cpd\node_modules\egg-multipart\app.js:72:23)
+    at Busboy.onFile (D:\项目\eggcpd\cpd\node_modules\co-busboy\index.js:101:17)
+    at emitMany (events.js:147:13)
+    at Busboy.emit (events.js:224:7)
+    at Busboy.emit (D:\项目\eggcpd\cpd\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (D:\项目\eggcpd\cpd\node_modules\busboy\lib\types\multipart.js:213:13)
+    at emitOne (events.js:116:13)
+    at PartStream.emit (events.js:211:7)
+    at HeaderParser.<anonymous> (D:\项目\eggcpd\cpd\node_modules\dicer\lib\Dicer.js:51:16)
+    at emitOne (events.js:116:13)
+status: 400
+pid: 11364
+hostname: bohui
+
+2018-08-24 09:25:53,250 WARN 3076 [-/127.0.0.1/-/8ms POST /CPD/edit/importProjectInfo] nodejs.Error: Invalid filename: edit.cpd
+    at checkFile (D:\项目\eggcpd\cpd\node_modules\egg-multipart\app.js:72:23)
+    at Busboy.onFile (D:\项目\eggcpd\cpd\node_modules\co-busboy\index.js:101:17)
+    at emitMany (events.js:147:13)
+    at Busboy.emit (events.js:224:7)
+    at Busboy.emit (D:\项目\eggcpd\cpd\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (D:\项目\eggcpd\cpd\node_modules\busboy\lib\types\multipart.js:213:13)
+    at emitOne (events.js:116:13)
+    at PartStream.emit (events.js:211:7)
+    at HeaderParser.<anonymous> (D:\项目\eggcpd\cpd\node_modules\dicer\lib\Dicer.js:51:16)
+    at emitOne (events.js:116:13)
+status: 400
+pid: 3076
+hostname: bohui
+
+2018-08-24 13:19:23,898 WARN 9920 [-/127.0.0.1/-/8ms POST /CPD/edit/importProjectInfo] nodejs.Error: Invalid filename: project.cpd
+    at checkFile (D:\项目\eggcpd\cpd\node_modules\egg-multipart\app.js:72:23)
+    at Busboy.onFile (D:\项目\eggcpd\cpd\node_modules\co-busboy\index.js:101:17)
+    at emitMany (events.js:147:13)
+    at Busboy.emit (events.js:224:7)
+    at Busboy.emit (D:\项目\eggcpd\cpd\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (D:\项目\eggcpd\cpd\node_modules\busboy\lib\types\multipart.js:213:13)
+    at emitOne (events.js:116:13)
+    at PartStream.emit (events.js:211:7)
+    at HeaderParser.<anonymous> (D:\项目\eggcpd\cpd\node_modules\dicer\lib\Dicer.js:51:16)
+    at emitOne (events.js:116:13)
+status: 400
+pid: 9920
+hostname: bohui
+
+2018-08-24 13:21:40,478 WARN 14212 [-/127.0.0.1/-/10ms POST /CPD/edit/importProjectInfo] nodejs.Error: Invalid filename: project.cpd
+    at checkFile (D:\项目\eggcpd\cpd\node_modules\egg-multipart\app.js:72:23)
+    at Busboy.onFile (D:\项目\eggcpd\cpd\node_modules\co-busboy\index.js:101:17)
+    at emitMany (events.js:147:13)
+    at Busboy.emit (events.js:224:7)
+    at Busboy.emit (D:\项目\eggcpd\cpd\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (D:\项目\eggcpd\cpd\node_modules\busboy\lib\types\multipart.js:213:13)
+    at emitOne (events.js:116:13)
+    at PartStream.emit (events.js:211:7)
+    at HeaderParser.<anonymous> (D:\项目\eggcpd\cpd\node_modules\dicer\lib\Dicer.js:51:16)
+    at emitOne (events.js:116:13)
+status: 400
+pid: 14212
+hostname: bohui
+
+2018-08-24 13:22:47,209 WARN 12312 [-/127.0.0.1/-/8ms POST /CPD/edit/importProjectInfo] nodejs.Error: Invalid filename: project.cpd
+    at checkFile (D:\项目\eggcpd\cpd\node_modules\egg-multipart\app.js:72:23)
+    at Busboy.onFile (D:\项目\eggcpd\cpd\node_modules\co-busboy\index.js:101:17)
+    at emitMany (events.js:147:13)
+    at Busboy.emit (events.js:224:7)
+    at Busboy.emit (D:\项目\eggcpd\cpd\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (D:\项目\eggcpd\cpd\node_modules\busboy\lib\types\multipart.js:213:13)
+    at emitOne (events.js:116:13)
+    at PartStream.emit (events.js:211:7)
+    at HeaderParser.<anonymous> (D:\项目\eggcpd\cpd\node_modules\dicer\lib\Dicer.js:51:16)
+    at emitOne (events.js:116:13)
+status: 400
+pid: 12312
+hostname: bohui
+
+2018-08-24 13:30:27,320 WARN 10124 [-/127.0.0.1/-/10ms POST /CPD/edit/importProjectInfo] nodejs.Error: Invalid filename: ssleay32.dll
+    at checkFile (D:\项目\eggcpd\cpd\node_modules\egg-multipart\app.js:72:23)
+    at Busboy.onFile (D:\项目\eggcpd\cpd\node_modules\co-busboy\index.js:101:17)
+    at emitMany (events.js:147:13)
+    at Busboy.emit (events.js:224:7)
+    at Busboy.emit (D:\项目\eggcpd\cpd\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (D:\项目\eggcpd\cpd\node_modules\busboy\lib\types\multipart.js:213:13)
+    at emitOne (events.js:116:13)
+    at PartStream.emit (events.js:211:7)
+    at HeaderParser.<anonymous> (D:\项目\eggcpd\cpd\node_modules\dicer\lib\Dicer.js:51:16)
+    at emitOne (events.js:116:13)
+status: 400
+pid: 10124
+hostname: bohui
+
+2018-08-24 13:30:39,187 WARN 10124 [-/127.0.0.1/-/2ms POST /CPD/edit/importProjectInfo] nodejs.Error: Invalid filename: history.txt
+    at checkFile (D:\项目\eggcpd\cpd\node_modules\egg-multipart\app.js:72:23)
+    at Busboy.onFile (D:\项目\eggcpd\cpd\node_modules\co-busboy\index.js:101:17)
+    at emitMany (events.js:147:13)
+    at Busboy.emit (events.js:224:7)
+    at Busboy.emit (D:\项目\eggcpd\cpd\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (D:\项目\eggcpd\cpd\node_modules\busboy\lib\types\multipart.js:213:13)
+    at emitOne (events.js:116:13)
+    at PartStream.emit (events.js:211:7)
+    at HeaderParser.<anonymous> (D:\项目\eggcpd\cpd\node_modules\dicer\lib\Dicer.js:51:16)
+    at emitOne (events.js:116:13)
+status: 400
+pid: 10124
+hostname: bohui
+
+2018-08-24 13:30:50,571 WARN 10124 [-/127.0.0.1/-/1ms POST /CPD/edit/importProjectInfo] nodejs.Error: Invalid filename: history.txt
+    at checkFile (D:\项目\eggcpd\cpd\node_modules\egg-multipart\app.js:72:23)
+    at Busboy.onFile (D:\项目\eggcpd\cpd\node_modules\co-busboy\index.js:101:17)
+    at emitMany (events.js:147:13)
+    at Busboy.emit (events.js:224:7)
+    at Busboy.emit (D:\项目\eggcpd\cpd\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (D:\项目\eggcpd\cpd\node_modules\busboy\lib\types\multipart.js:213:13)
+    at emitOne (events.js:116:13)
+    at PartStream.emit (events.js:211:7)
+    at HeaderParser.<anonymous> (D:\项目\eggcpd\cpd\node_modules\dicer\lib\Dicer.js:51:16)
+    at emitOne (events.js:116:13)
+status: 400
+pid: 10124
+hostname: bohui
+
+2018-08-24 14:49:26,311 WARN 16444 [-/127.0.0.1/-/17ms POST /CPD/edit/saveOrUpdateServer] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (D:\项目\eggcpd\cpd\node_modules\koa\lib\context.js:96:11)
+    at Object.multipart (D:\项目\eggcpd\cpd\node_modules\egg-multipart\app\extend\context.js:22:17)
+    at Object.getFileStream (D:\项目\eggcpd\cpd\node_modules\egg-multipart\app\extend\context.js:45:24)
+    at ImportProjectInfoMngService.echo (D:\项目\eggcpd\cpd\app\service\edit\importProjectInfoMng.js:12:30)
+    at SaveOrUpdateServerController.create (D:\项目\eggcpd\cpd\app\controller\edit\saveOrUpdateServer.js:7:71)
+    at Object.callFn (D:\项目\eggcpd\cpd\node_modules\egg-core\lib\utils\index.js:36:21)
+    at Object.classControllerMiddleware (D:\项目\eggcpd\cpd\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\项目\eggcpd\cpd\node_modules\egg-core\lib\utils\index.js:36:21)
+    at wrappedController (D:\项目\eggcpd\cpd\node_modules\egg-core\lib\utils\router.js:322:18)
+    at dispatch (D:\项目\eggcpd\cpd\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+message: "Content-Type must be multipart/*"
+pid: 16444
+hostname: bohui
+
+2018-08-24 14:49:52,279 WARN 13644 [-/127.0.0.1/-/19ms POST /CPD/edit/saveOrUpdateServer] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (D:\项目\eggcpd\cpd\node_modules\koa\lib\context.js:96:11)
+    at Object.multipart (D:\项目\eggcpd\cpd\node_modules\egg-multipart\app\extend\context.js:22:17)
+    at Object.getFileStream (D:\项目\eggcpd\cpd\node_modules\egg-multipart\app\extend\context.js:45:24)
+    at ImportProjectInfoMngService.echo (D:\项目\eggcpd\cpd\app\service\edit\importProjectInfoMng.js:12:30)
+    at SaveOrUpdateServerController.create (D:\项目\eggcpd\cpd\app\controller\edit\saveOrUpdateServer.js:7:71)
+    at Object.callFn (D:\项目\eggcpd\cpd\node_modules\egg-core\lib\utils\index.js:36:21)
+    at Object.classControllerMiddleware (D:\项目\eggcpd\cpd\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\项目\eggcpd\cpd\node_modules\egg-core\lib\utils\index.js:36:21)
+    at wrappedController (D:\项目\eggcpd\cpd\node_modules\egg-core\lib\utils\router.js:322:18)
+    at dispatch (D:\项目\eggcpd\cpd\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+message: "Content-Type must be multipart/*"
+pid: 13644
+hostname: bohui
+
+2018-08-24 14:50:19,481 WARN 2456 [-/127.0.0.1/-/20ms POST /CPD/edit/saveOrUpdateServer] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (D:\项目\eggcpd\cpd\node_modules\koa\lib\context.js:96:11)
+    at Object.multipart (D:\项目\eggcpd\cpd\node_modules\egg-multipart\app\extend\context.js:22:17)
+    at Object.getFileStream (D:\项目\eggcpd\cpd\node_modules\egg-multipart\app\extend\context.js:45:24)
+    at ImportProjectInfoMngService.echo (D:\项目\eggcpd\cpd\app\service\edit\importProjectInfoMng.js:12:30)
+    at SaveOrUpdateServerController.create (D:\项目\eggcpd\cpd\app\controller\edit\saveOrUpdateServer.js:7:71)
+    at Object.callFn (D:\项目\eggcpd\cpd\node_modules\egg-core\lib\utils\index.js:36:21)
+    at Object.classControllerMiddleware (D:\项目\eggcpd\cpd\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\项目\eggcpd\cpd\node_modules\egg-core\lib\utils\index.js:36:21)
+    at wrappedController (D:\项目\eggcpd\cpd\node_modules\egg-core\lib\utils\router.js:322:18)
+    at dispatch (D:\项目\eggcpd\cpd\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+message: "Content-Type must be multipart/*"
+pid: 2456
+hostname: bohui
+
+2018-08-24 15:50:30,809 WARN 17132 [-/127.0.0.1/-/3ms POST /CPD/edit/delServerById] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (D:\项目\eggcpd\cpd\node_modules\koa\lib\context.js:96:11)
+    at Object.multipart (D:\项目\eggcpd\cpd\node_modules\egg-multipart\app\extend\context.js:22:17)
+    at Object.getFileStream (D:\项目\eggcpd\cpd\node_modules\egg-multipart\app\extend\context.js:45:24)
+    at ImportProjectInfoMngService.echo (D:\项目\eggcpd\cpd\app\service\edit\importProjectInfoMng.js:12:30)
+    at DelServerByIdController.create (D:\项目\eggcpd\cpd\app\controller\edit\delServerById.js:7:71)
+    at Object.callFn (D:\项目\eggcpd\cpd\node_modules\egg-core\lib\utils\index.js:36:21)
+    at Object.classControllerMiddleware (D:\项目\eggcpd\cpd\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\项目\eggcpd\cpd\node_modules\egg-core\lib\utils\index.js:36:21)
+    at wrappedController (D:\项目\eggcpd\cpd\node_modules\egg-core\lib\utils\router.js:322:18)
+    at dispatch (D:\项目\eggcpd\cpd\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+message: "Content-Type must be multipart/*"
+pid: 17132
+hostname: bohui
+
+2018-08-24 15:51:13,237 WARN 13384 [-/127.0.0.1/-/2ms POST /CPD/edit/delServerById] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (D:\项目\eggcpd\cpd\node_modules\koa\lib\context.js:96:11)
+    at Object.multipart (D:\项目\eggcpd\cpd\node_modules\egg-multipart\app\extend\context.js:22:17)
+    at Object.getFileStream (D:\项目\eggcpd\cpd\node_modules\egg-multipart\app\extend\context.js:45:24)
+    at ImportProjectInfoMngService.echo (D:\项目\eggcpd\cpd\app\service\edit\importProjectInfoMng.js:12:30)
+    at DelServerByIdController.create (D:\项目\eggcpd\cpd\app\controller\edit\delServerById.js:7:71)
+    at Object.callFn (D:\项目\eggcpd\cpd\node_modules\egg-core\lib\utils\index.js:36:21)
+    at Object.classControllerMiddleware (D:\项目\eggcpd\cpd\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\项目\eggcpd\cpd\node_modules\egg-core\lib\utils\index.js:36:21)
+    at wrappedController (D:\项目\eggcpd\cpd\node_modules\egg-core\lib\utils\router.js:322:18)
+    at dispatch (D:\项目\eggcpd\cpd\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+message: "Content-Type must be multipart/*"
+pid: 13384
+hostname: bohui
+
+2018-08-24 15:51:53,060 WARN 6668 [-/127.0.0.1/-/2ms POST /CPD/edit/delServerById] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (D:\项目\eggcpd\cpd\node_modules\koa\lib\context.js:96:11)
+    at Object.multipart (D:\项目\eggcpd\cpd\node_modules\egg-multipart\app\extend\context.js:22:17)
+    at Object.getFileStream (D:\项目\eggcpd\cpd\node_modules\egg-multipart\app\extend\context.js:45:24)
+    at ImportProjectInfoMngService.echo (D:\项目\eggcpd\cpd\app\service\edit\importProjectInfoMng.js:12:30)
+    at DelServerByIdController.create (D:\项目\eggcpd\cpd\app\controller\edit\delServerById.js:7:71)
+    at Object.callFn (D:\项目\eggcpd\cpd\node_modules\egg-core\lib\utils\index.js:36:21)
+    at Object.classControllerMiddleware (D:\项目\eggcpd\cpd\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\项目\eggcpd\cpd\node_modules\egg-core\lib\utils\index.js:36:21)
+    at wrappedController (D:\项目\eggcpd\cpd\node_modules\egg-core\lib\utils\router.js:322:18)
+    at dispatch (D:\项目\eggcpd\cpd\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+message: "Content-Type must be multipart/*"
+pid: 6668
+hostname: bohui
+
+2018-08-24 15:53:31,132 WARN 17328 [-/127.0.0.1/-/1ms POST /CPD/edit/delServerById] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (D:\项目\eggcpd\cpd\node_modules\koa\lib\context.js:96:11)
+    at Object.multipart (D:\项目\eggcpd\cpd\node_modules\egg-multipart\app\extend\context.js:22:17)
+    at Object.getFileStream (D:\项目\eggcpd\cpd\node_modules\egg-multipart\app\extend\context.js:45:24)
+    at ImportProjectInfoMngService.echo (D:\项目\eggcpd\cpd\app\service\edit\importProjectInfoMng.js:12:30)
+    at DelServerByIdController.create (D:\项目\eggcpd\cpd\app\controller\edit\delServerById.js:7:71)
+    at Object.callFn (D:\项目\eggcpd\cpd\node_modules\egg-core\lib\utils\index.js:36:21)
+    at Object.classControllerMiddleware (D:\项目\eggcpd\cpd\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\项目\eggcpd\cpd\node_modules\egg-core\lib\utils\index.js:36:21)
+    at wrappedController (D:\项目\eggcpd\cpd\node_modules\egg-core\lib\utils\router.js:322:18)
+    at dispatch (D:\项目\eggcpd\cpd\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+message: "Content-Type must be multipart/*"
+pid: 17328
+hostname: bohui
+
+2018-08-24 15:56:14,487 WARN 6100 [-/127.0.0.1/-/3ms POST /CPD/edit/delServerById] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (D:\项目\eggcpd\cpd\node_modules\koa\lib\context.js:96:11)
+    at Object.multipart (D:\项目\eggcpd\cpd\node_modules\egg-multipart\app\extend\context.js:22:17)
+    at Object.getFileStream (D:\项目\eggcpd\cpd\node_modules\egg-multipart\app\extend\context.js:45:24)
+    at ImportProjectInfoMngService.echo (D:\项目\eggcpd\cpd\app\service\edit\importProjectInfoMng.js:12:30)
+    at DelServerByIdController.create (D:\项目\eggcpd\cpd\app\controller\edit\delServerById.js:7:71)
+    at Object.callFn (D:\项目\eggcpd\cpd\node_modules\egg-core\lib\utils\index.js:36:21)
+    at Object.classControllerMiddleware (D:\项目\eggcpd\cpd\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\项目\eggcpd\cpd\node_modules\egg-core\lib\utils\index.js:36:21)
+    at wrappedController (D:\项目\eggcpd\cpd\node_modules\egg-core\lib\utils\router.js:322:18)
+    at dispatch (D:\项目\eggcpd\cpd\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+message: "Content-Type must be multipart/*"
+pid: 6100
+hostname: bohui
+
+2018-08-28 13:38:32,941 WARN 9696 [-/127.0.0.1/-/12ms POST /CPD/edit/importProjectInfo] nodejs.Error: Invalid filename: gis优化方案.doc
+    at checkFile (D:\项目\eggcpd\cpd\node_modules\egg-multipart\app.js:72:23)
+    at Busboy.onFile (D:\项目\eggcpd\cpd\node_modules\co-busboy\index.js:101:17)
+    at emitMany (events.js:147:13)
+    at Busboy.emit (events.js:224:7)
+    at Busboy.emit (D:\项目\eggcpd\cpd\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (D:\项目\eggcpd\cpd\node_modules\busboy\lib\types\multipart.js:213:13)
+    at emitOne (events.js:116:13)
+    at PartStream.emit (events.js:211:7)
+    at HeaderParser.<anonymous> (D:\项目\eggcpd\cpd\node_modules\dicer\lib\Dicer.js:51:16)
+    at emitOne (events.js:116:13)
+status: 400
+pid: 9696
+hostname: bohui
+
+2018-08-28 13:39:21,451 WARN 9696 [-/127.0.0.1/-/3ms POST /CPD/edit/importProjectInfo] nodejs.Error: Invalid filename: 新建文本文档.txt
+    at checkFile (D:\项目\eggcpd\cpd\node_modules\egg-multipart\app.js:72:23)
+    at Busboy.onFile (D:\项目\eggcpd\cpd\node_modules\co-busboy\index.js:101:17)
+    at emitMany (events.js:147:13)
+    at Busboy.emit (events.js:224:7)
+    at Busboy.emit (D:\项目\eggcpd\cpd\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (D:\项目\eggcpd\cpd\node_modules\busboy\lib\types\multipart.js:213:13)
+    at emitOne (events.js:116:13)
+    at PartStream.emit (events.js:211:7)
+    at HeaderParser.<anonymous> (D:\项目\eggcpd\cpd\node_modules\dicer\lib\Dicer.js:51:16)
+    at emitOne (events.js:116:13)
+status: 400
+pid: 9696
+hostname: bohui
+
+2018-08-28 13:52:45,510 WARN 9508 [-/127.0.0.1/-/39ms POST /CPD/edit/importProjectInfo] nodejs.Error: Invalid filename: CA92_Dispatcher.exe
+    at checkFile (D:\项目\eggcpd\cpd\node_modules\egg-multipart\app.js:72:23)
+    at Busboy.onFile (D:\项目\eggcpd\cpd\node_modules\co-busboy\index.js:101:17)
+    at emitMany (events.js:147:13)
+    at Busboy.emit (events.js:224:7)
+    at Busboy.emit (D:\项目\eggcpd\cpd\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (D:\项目\eggcpd\cpd\node_modules\busboy\lib\types\multipart.js:213:13)
+    at emitOne (events.js:116:13)
+    at PartStream.emit (events.js:211:7)
+    at HeaderParser.<anonymous> (D:\项目\eggcpd\cpd\node_modules\dicer\lib\Dicer.js:51:16)
+    at emitOne (events.js:116:13)
+status: 400
+pid: 9508
+hostname: bohui
+
+2018-08-28 14:02:44,428 WARN 5112 [-/127.0.0.1/-/12ms POST /CPD/edit/importProjectInfo] nodejs.Error: Invalid filename: gis优化方案.doc
+    at checkFile (D:\项目\eggcpd\cpd\node_modules\egg-multipart\app.js:72:23)
+    at Busboy.onFile (D:\项目\eggcpd\cpd\node_modules\co-busboy\index.js:101:17)
+    at emitMany (events.js:147:13)
+    at Busboy.emit (events.js:224:7)
+    at Busboy.emit (D:\项目\eggcpd\cpd\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (D:\项目\eggcpd\cpd\node_modules\busboy\lib\types\multipart.js:213:13)
+    at emitOne (events.js:116:13)
+    at PartStream.emit (events.js:211:7)
+    at HeaderParser.<anonymous> (D:\项目\eggcpd\cpd\node_modules\dicer\lib\Dicer.js:51:16)
+    at emitOne (events.js:116:13)
+status: 400
+pid: 5112
+hostname: bohui
+
+2018-08-28 14:07:37,412 WARN 5112 [-/127.0.0.1/-/1ms POST /CPD/edit/importProjectInfo] nodejs.Error: Invalid filename: 链路切换测试.cpd
+    at checkFile (D:\项目\eggcpd\cpd\node_modules\egg-multipart\app.js:72:23)
+    at Busboy.onFile (D:\项目\eggcpd\cpd\node_modules\co-busboy\index.js:101:17)
+    at emitMany (events.js:147:13)
+    at Busboy.emit (events.js:224:7)
+    at Busboy.emit (D:\项目\eggcpd\cpd\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (D:\项目\eggcpd\cpd\node_modules\busboy\lib\types\multipart.js:213:13)
+    at emitOne (events.js:116:13)
+    at PartStream.emit (events.js:211:7)
+    at HeaderParser.<anonymous> (D:\项目\eggcpd\cpd\node_modules\dicer\lib\Dicer.js:51:16)
+    at emitOne (events.js:116:13)
+status: 400
+pid: 5112
+hostname: bohui
+
